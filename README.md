@@ -8,7 +8,7 @@ Execute the command `dotnet run` in the project's root folder, provided you have
 
 ### Further reading
 
-MediaR's library is a great resource when you are trying to build an application with the CQRS pattern. Martin Fowler has a [great article](https://martinfowler.com/bliki/CQRS.html) about this subject.
+MediatR's library is a great resource when you are trying to build an application with the CQRS pattern. Martin Fowler has a [great article](https://martinfowler.com/bliki/CQRS.html) about this subject.
 
 ### Contributions
 Contributions to this repo are welcome, specially concerning other aspects of the MediatR library, such as notifications and events.
