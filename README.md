@@ -1,6 +1,6 @@
 # mediatr-sample
 
-A simple C# console program to demonstrate the usage of request, handlers and (pipeline) behaviors of [jbogards's Mediatr](https://github.com/jbogard/MediatR) library.
+A simple C# console program to demonstrate the usage of requests, handlers and (pipeline) behaviors of [jbogards's Mediatr](https://github.com/jbogard/MediatR) library.
 
 ### Running the sample
 
